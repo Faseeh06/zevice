@@ -1,7 +1,5 @@
 # Zevice - IoT Monitoring System
 
-![Zevice Logo](https://i.postimg.cc/m2KRVxfC/image.png)
-
 ## Overview
 
 Zevice is a modern IoT monitoring platform for real-time device management and analytics. It provides a comprehensive solution for tracking, managing, and analyzing data from IoT devices with a clean, intuitive user interface.
