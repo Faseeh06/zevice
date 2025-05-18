@@ -65,6 +65,14 @@ The UI was designed with a focus on clarity, minimal aesthetics, and ease of use
 - **Dashboard**: Real-time device statistics with visual charts
 - **Device Table**: Comprehensive list of connected devices with status indicators
 - **Admin Console**: Simple form interface for adding new devices
+![WhatsApp Image 2025-05-19 at 00 27 27_63924229](https://github.com/user-attachments/assets/4e4a64cb-481c-452b-b46e-461941f80c59)
+
+
+![WhatsApp Image 2025-05-19 at 00 27 08_0b2ebaf0](https://github.com/user-attachments/assets/bd48b030-149e-4615-893b-705f71cd2715)
+
+
+![WhatsApp Image 2025-05-19 at 00 36 03_399816b3](https://github.com/user-attachments/assets/090f74a0-746f-472f-a0da-c63d84d4b63c)
+
 
 ## Setting Up the Project
 
